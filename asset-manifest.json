@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/Portfolio/static/js/main.44abb18e.js",
+    "main.js": "/Portfolio/static/js/main.52ee94a5.js",
     "static/media/ReactFactsBackground.png": "/Portfolio/static/media/ReactFactsBackground.afcf09ba2b97db24cbec.png",
     "static/media/TenziesGameBg.png": "/Portfolio/static/media/TenziesGameBg.36e83ce6f3e7c9054955.png",
     "static/media/Restaurant-website.jpg": "/Portfolio/static/media/Restaurant-website.43ec45e17d8313ec52c0.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.44abb18e.js.map": "/Portfolio/static/js/main.44abb18e.js.map"
+    "main.52ee94a5.js.map": "/Portfolio/static/js/main.52ee94a5.js.map"
   },
   "entrypoints": [
-    "static/js/main.44abb18e.js"
+    "static/js/main.52ee94a5.js"
   ]
 }
