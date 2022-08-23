@@ -37,7 +37,7 @@ export default function Projects(){
             </div>
             <div className="project-card">
                 <div className="project-image">
-                    <img src={require(`../images/Restaurant-website.png`)} alt="Project background img"/>
+                    <img src={require(`../images/Restaurant-website.jpg`)} alt="Project background img"/>
                 </div>
                 <div className="project-info">
                     <p className="project-category">A React Restaurant Website , using Modern UI - DESIGN </p>
