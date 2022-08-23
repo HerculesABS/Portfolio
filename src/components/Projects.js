@@ -35,6 +35,18 @@ export default function Projects(){
                     </strong>
                 </div>
             </div>
+            <div className="project-card">
+                <div className="project-image">
+                    <img src={require(`../images/Restaurant-website.png`)} alt="Project background img"/>
+                </div>
+                <div className="project-info">
+                    <p className="project-category">A React Restaurant Website , using Modern UI - DESIGN </p>
+                    <strong className="project-title">
+                        <span>Restaurant Website </span>
+                        <a href="https://herculesabs.github.io/sauto-berria/" className="more-details">More details</a>
+                    </strong>
+                </div>
+            </div>
         </div>
     </section>
 
