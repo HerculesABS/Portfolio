@@ -47,6 +47,19 @@ export default function Projects(){
                     </strong>
                 </div>
             </div>
+            <div className="project-card">
+                <div className="project-image">
+                    <img src={require(`../images/js-CRUDS.jpg`)} alt="Project background img"/>
+                </div>
+                <div className="project-info">
+                    <p className="project-category">Product managment system using all the CRUDS opearations in javascript</p>
+                    <strong className="project-title">
+                        <span>CRUDS javascript </span>
+                        <a href="https://herculesabs.github.io/CRUD-JS/" className="more-details">More details</a>
+                    </strong>
+                </div>
+            </div>
+           
         </div>
     </section>
 

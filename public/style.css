@@ -182,6 +182,7 @@ section{
 }
 
 .projects .content {
+    display: flex;
     margin-top: 30px;
 }
 
