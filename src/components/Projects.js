@@ -59,6 +59,18 @@ export default function Projects(){
                     </strong>
                 </div>
             </div>
+            <div className="project-card">
+                <div className="project-image">
+                    <img src={require(`../images/yt-clone.jpg`)} alt="Project background img"/>
+                </div>
+                <div className="project-info">
+                    <p className="project-category">Youtube clone app, build using REACT , RapidAPI and styled by MaterialUI v5</p>
+                    <strong className="project-title">
+                        <span>Modern Youtube Clone app </span>
+                        <a href="https://silver-sunburst-373dd6.netlify.app/" className="more-details">More details</a>
+                    </strong>
+                </div>
+            </div>
            
         </div>
     </section>
