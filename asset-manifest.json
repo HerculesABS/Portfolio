@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.js": "/Portfolio/static/js/main.47a8b05a.js",
+    "main.js": "/Portfolio/static/js/main.bc41522a.js",
+    "static/media/yt-clone.jpg": "/Portfolio/static/media/yt-clone.b5642c0458d5eb9d6e94.jpg",
     "static/media/ReactFactsBackground.png": "/Portfolio/static/media/ReactFactsBackground.afcf09ba2b97db24cbec.png",
     "static/media/TenziesGameBg.png": "/Portfolio/static/media/TenziesGameBg.36e83ce6f3e7c9054955.png",
     "static/media/Restaurant-website.jpg": "/Portfolio/static/media/Restaurant-website.43ec45e17d8313ec52c0.jpg",
     "static/media/js-CRUDS.jpg": "/Portfolio/static/media/js-CRUDS.99fffeb1a91d3e9fca68.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.47a8b05a.js.map": "/Portfolio/static/js/main.47a8b05a.js.map"
+    "main.bc41522a.js.map": "/Portfolio/static/js/main.bc41522a.js.map"
   },
   "entrypoints": [
-    "static/js/main.47a8b05a.js"
+    "static/js/main.bc41522a.js"
   ]
 }
