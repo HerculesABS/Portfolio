@@ -64,10 +64,23 @@ export default function Projects(){
                     <img src={require(`../images/yt-clone.jpg`)} alt="Project background img"/>
                 </div>
                 <div className="project-info">
-                    <p className="project-category">Youtube clone app, build using REACT , RapidAPI and styled by MaterialUI v5</p>
+                    <p className="project-category">Youtube clone app, build using REACT , RapidAPI and MaterialUI v5</p>
                     <strong className="project-title">
                         <span>Modern Youtube Clone app </span>
                         <a href="https://silver-sunburst-373dd6.netlify.app/" className="more-details">More details</a>
+                    </strong>
+                </div>
+            </div>
+
+            <div className="project-card">
+                <div className="project-image">
+                    <img src={require(`../images/e-commerce.png`)} alt="Project background img"/>
+                </div>
+                <div className="project-info">
+                    <p className="project-category">Full Stack e-commerce React Application Build with NextJS, Sanity and Stripe</p>
+                    <strong className="project-title">
+                        <span>E-COMMERCE website </span>
+                        <a href="https://ecommerce-sanity-stripe-blush-tau.vercel.app/" className="more-details">More details</a>
                     </strong>
                 </div>
             </div>
